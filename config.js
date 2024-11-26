@@ -14,9 +14,9 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5214461281232', 'KeroppiBot', true],
+  ['5214461281232', 'TIlinBot', true],
   ['5212227787014', 'Colaborador', true],
-  ['5212227787014', 'AntonyxT', true],
+  ['5212227787014', 'Tilin', true],
 ];
 
 global.suittag = ['5212227787014'];
@@ -25,16 +25,16 @@ global.prems = ['5212227787014'];
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.author = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.wm = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
+global.packname = 'PANDII BOT';
+global.author = 'PANDII BOT';
+global.wm = 'PANDII BOT';
 global.idioma = 'es';
-global.ig = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.etiqueta = 'ACTIVENSE 𝙈𝙀𝙇𝘼𝙉𝙄𝙀 BOT LES HABLA';
-global.emojietiqueta = '👑';
-global.titulowm = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.titulowm2 = `𝙈𝙀𝙇𝘼𝙉𝙄𝙀`
-global.igfg = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
+global.ig = '@tilin.ff.23';
+global.etiqueta = 'Actívense, actívense';
+global.emojietiqueta = '🐼';
+global.titulowm = 'PANDII BOT';
+global.titulowm2 = `PANDII BOT`
+global.igfg = 'PANDII BOT';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,12 +54,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝙈𝙀𝙇𝘼𝙉𝙄𝙀`;
-global.gt = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.mysticbot = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.channel = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
-global.md = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
-global.mysticbot = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
+global.wm2 = `${dia} ${fecha}\nPANDII BOT`;
+global.gt = 'PANDII BOT';
+global.mysticbot = 'PANDII BOT';
+global.channel = 'https://chat.whatsapp.com/DwdzVaHCuRz5OCWXkL5fBw';
+global.md = 'https://chat.whatsapp.com/DwdzVaHCuRz5OCWXkL5fBw';
+global.mysticbot = 'https://chat.whatsapp.com/DwdzVaHCuRz5OCWXkL5fBw';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
